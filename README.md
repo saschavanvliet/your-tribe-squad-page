@@ -1,7 +1,7 @@
 
 # Squad page
 
-Ontwerp en maak met een team een Squad Page met HTML, CSS en JS.
+Voor de opleiding frontend design & development is het de bedoeling dat jij met een groepje een teampagina maakt van de mensen die in jouw squad (klas) zitten. Aria, Mikiyas en Sascha hebben hun best gedaan om aan de hand van aangeboden standaarden en principes vanuit de opleiding een zo goed mogelijke werkende site te maken. 
 
 1. [Analysefase](https://github.com/saschavanvliet/your-tribe-squad-page/blob/main/README.md#analysefase)
 2. [Ontwerpfase](https://github.com/saschavanvliet/your-tribe-squad-page/blob/main/README.md#ontwerpfase)
@@ -12,6 +12,8 @@ Ontwerp en maak met een team een Squad Page met HTML, CSS en JS.
 ## Analysefase
 
 ## Ontwerpfase
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/c4f8932b-2728-4257-b8c9-9b9c0527c2af">
+
 
 ## Bouwfase
 
