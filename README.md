@@ -3,11 +3,11 @@
 
 Ontwerp en maak met een team een Squad Page met HTML, CSS en JS.
 
-1. [Analysefase]
-2. Ontwerpfase
-3. Bouwfase
-4. Testfase
-5. Integreerfase
+1. [Analysefase](https://github.com/saschavanvliet/your-tribe-squad-page/blob/main/README.md#analysefase)
+2. [[Ontwerpfase](url)
+3. [Bouwfase](url)
+4. [Testfase](url)
+5. [Integreerfase](url)
 
 ## Analysefase
 
