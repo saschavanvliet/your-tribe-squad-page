@@ -7,9 +7,12 @@ Voor de opleiding frontend design & development is het de bedoeling dat jij met 
 2. [Ontwerpfase](https://github.com/saschavanvliet/your-tribe-squad-page/blob/main/README.md#ontwerpfase)
 3. [Bouwfase](https://github.com/saschavanvliet/your-tribe-squad-page/blob/main/README.md#bouwfase)
 4. [Testfase](https://github.com/saschavanvliet/your-tribe-squad-page/blob/main/README.md#testfase)
-5. [Integreerfase](url)
+5. [Integreerfase](https://github.com/saschavanvliet/your-tribe-squad-page/blob/main/README.md#integreerfase)
 
 ## Analysefase
+![image (1)](https://github.com/user-attachments/assets/cb7c9e7d-5e7b-45d0-a6f7-fe645a83ca10)
+![image](https://github.com/user-attachments/assets/85876643-accf-464c-b5c2-286da3b025a1)
+![image](https://github.com/user-attachments/assets/25340138-3120-40bb-9f37-46edb413b90f)
 
 ## Ontwerpfase
 <img width="341" alt="image" src="https://github.com/user-attachments/assets/c4f8932b-2728-4257-b8c9-9b9c0527c2af">
