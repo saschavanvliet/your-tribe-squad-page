@@ -23,11 +23,13 @@ body {
     background-image: url(images/IMG_2743[1]\ ljnd.PNG);
 }
 
+/* class voor de volledige carousel */
 .wrapper {
     max-width: 1100px;
     width: 100%;
     position: relative;
 }
+
 /* 
 .wrapper button {
     height: 50px;
@@ -59,7 +61,8 @@ body {
     grid-auto-columns: calc((100%/3) - 12px);
     gap: 16px;
     overflow-x: auto;
-    scroll-snap-type: x mandatory; /*zodat je soepel op de x-as kan scrollen */
+    scroll-snap-type: x mandatory;
+    /*zodat je soepel op de x-as kan scrollen */
     scroll-behavior: smooth;
     scrollbar-width: 0;
 }
@@ -154,7 +157,7 @@ a#button:hover {
     border-radius: 45%;
     background-color: pink;
     color: black;
-    transform: translateY(-5px); 
+    transform: translateY(-5px);
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 
