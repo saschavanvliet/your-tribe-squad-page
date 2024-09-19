@@ -7,6 +7,13 @@
     font-family: "poppins", sans-serif;
 }
 
+h1 {
+    position: absolute;
+    margin: 0;
+    top: 1em;
+    color: white;
+}
+
 body {
     display: flex;
     align-items: center;
@@ -21,7 +28,7 @@ body {
     width: 100%;
     position: relative;
 }
-
+/* 
 .wrapper button {
     height: 50px;
     width: 50px;
@@ -43,7 +50,7 @@ body {
 
 .wrapper button:nth-child(2) {
     right: 1em;
-}
+} */
 
 .wrapper .carousel {
     display: grid;
@@ -99,6 +106,7 @@ body {
     background: #8B53FF;
     width: 148px;
     height: 148;
+    margin-left: 5.5em;
     border-radius: 50%;
 }
 
@@ -131,6 +139,22 @@ body {
     .wrapper .carousel {
         grid-auto-columns: 100%;
     }
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a#button {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 23em;
+    background-color: #342738;
+    color: white;
+    padding: 1.2em;
+    border-radius: 45%;
 }
 
 /*
