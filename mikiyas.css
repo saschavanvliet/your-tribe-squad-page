@@ -52,13 +52,14 @@ body {
     right: 1em;
 } */
 
+/* carousel styling */
 .wrapper .carousel {
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: calc((100%/3) - 12px);
     gap: 16px;
     overflow-x: auto;
-    scroll-snap-type: x mandatory;
+    scroll-snap-type: x mandatory; /*zodat je soepel op de x-as kan scrollen */
     scroll-behavior: smooth;
     scrollbar-width: 0;
 }
@@ -102,6 +103,7 @@ body {
     flex-direction: column;
 }
 
+/* styling voor border foto */
 .card .img {
     background: #8B53FF;
     width: 148px;
@@ -110,6 +112,7 @@ body {
     border-radius: 50%;
 }
 
+/* styling voor foto zelf */
 .card .img img {
     width: 140px;
     height: 140px;
@@ -118,6 +121,7 @@ body {
     border: 4px solid #fff;
 }
 
+/* ondertitel in kaartje */
 .card h2 {
     font-weight: 500;
     font-size: 1.56rem;
@@ -129,23 +133,12 @@ body {
     font-size: 1.31rem;
 }
 
-@media screen and (max-width: 900px) {
-    .wrapper .carousel {
-        grid-auto-columns: calc((100% / 2) - 9px);
-    }
-}
-
-@media screen and (max-width: 600px) {
-    .wrapper .carousel {
-        grid-auto-columns: 100%;
-    }
-}
-
 a {
     text-decoration: none;
     color: #000000;
 }
 
+/* styling voor button onderaan de pagina */
 a#button {
     position: absolute;
     justify-content: center;
@@ -163,6 +156,18 @@ a#button:hover {
     color: black;
     transform: translateY(-5px); 
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (max-width: 900px) {
+    .wrapper .carousel {
+        grid-auto-columns: calc((100% / 2) - 9px);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .wrapper .carousel {
+        grid-auto-columns: 100%;
+    }
 }
 
 /*
