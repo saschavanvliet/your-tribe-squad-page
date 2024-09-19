@@ -35,7 +35,6 @@ body {
     font-size: 1.25rem;
     transform: translateY(-50%);
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.23);
-
 }
 
 .wrapper button:first-child {
@@ -52,7 +51,7 @@ body {
     grid-auto-columns: calc((100%/3) - 12px);
     gap: 16px;
     overflow-x: auto;
-    scroll-snap-type: y mandatory;
+    scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
     scrollbar-width: 0;
 }
