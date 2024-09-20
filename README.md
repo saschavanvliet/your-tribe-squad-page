@@ -57,7 +57,7 @@ Wij hebben binnen dit project gebruik gemaakt van hele belangrijke fundamentele 
 Wij hebben de site getest door te kijken naar de responsiveness van de website. In principe zou de site voor elk apparaat toegankelijk moeten zijn omdat we meerdere 'breakpoints' hebben toegevoegd in het ontwerp. Op 2 verschillende plekken verschuift de site naar een andere layout en zo kan je zelfs op je mobieltje de kaartjes nog zien.
 
 ## Integreerfase
-Wij hebben onze site online gezet via Github pages. Zie hier de live link: https://saschavanvliet.github.io/your-tribe-squad-page/
+Wij hebben onze site online gezet via Github pages. Zie hier de live link: [https://saschavanvliet.github.io/your-tribe-squad-page/](https://saschavanvliet.github.io/your-tribe-squad-page/mikiyas.html)
 
 ## Licentie
 
