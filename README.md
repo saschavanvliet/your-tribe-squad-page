@@ -20,7 +20,17 @@ Voor de opleiding frontend design & development is het de bedoeling dat jij met 
 <img width="381" alt="image" src="https://github.com/user-attachments/assets/ccff4ca0-54a6-4bf8-bb6f-5144b7975a7a">
 
 ## Analysefase
+Allereerst hebben we kennis gemaakt met elkaars capaciteiten aan de hand van een teamcanvas. Hier schrijf je op wat je kwaliteiten zijn en je geeft aan waar je minder goed in bent. Op deze manier krijgen je teamleden een idee van jou als persoon en sta je niet voor verrassingen. Naast de persoonlijke kenmerken schrijf je ook doelen op. Dit kan zijn wat je wil maken met je groepje of welke waardes je hebt met elkaar, denk aan respectvol met elkaar omgaan.
+
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/cbe8aa08-6ff0-48d5-8a53-958b733c2714">
+
+Vervolgens hebben we gekeken naar hoe een squadpage er bij andere sites uit zou zien. 
+
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/85876643-accf-464c-b5c2-286da3b025a1">
+
+Tenslotte hebben we alle visitekaartjes verzameld en we hebben gekeken naar hoe andere mensen hun kaartje hebben gemaakt.
+
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/25340138-3120-40bb-9f37-46edb413b90f">
 
 ## Ontwerpfase
 <img width="341" alt="image" src="https://github.com/user-attachments/assets/6d03e14e-571c-40f1-ba93-d92f0cea1a00">
